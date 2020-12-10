@@ -1,4 +1,3 @@
-class: Workflow
 cwlVersion: v1.0
 id: bladed_s3
 label: bladed_s3
